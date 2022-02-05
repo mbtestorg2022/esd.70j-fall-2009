@@ -8,7 +8,27 @@ This section contains a self-assessment exercise that students could use to judg
 
 The self-assessment exercise was prepared in part by Tao Wang, and is used with permission.
 
-| ASSIGNMENTS |
-| --- |
-| Excel self-assessment exercise ([PDF]({{< baseurl >}}/resources/mitesd_70jf09_assn01_self_assess)) |
-| End-of-course assignment ([PDF]({{< baseurl >}}/resources/mitesd_70jf09_assn02_end_course))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Excel self-assessment exercise ([PDF]({{< baseurl >}}/resources/mitesd_70jf09_assn01_self_assess))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+End-of-course assignment ([PDF]({{< baseurl >}}/resources/mitesd_70jf09_assn02_end_course))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
